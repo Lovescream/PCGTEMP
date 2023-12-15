@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 4584090eaa9ff1d44a2e9260d2edd4de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2718778361177353105
+    second: BlackTail_Idle_00
+  - first:
+      213: 2426861804318513108
+    second: BlackTail_Idle_01
+  - first:
+      213: -6068817363065433050
+    second: BlackTail_Idle_02
+  - first:
+      213: -6564245577994311019
+    second: BlackTail_Idle_03
+  - first:
+      213: 7823307636405264462
+    second: BlackTail_Idle_04
+  - first:
+      213: 6642537896692249481
+    second: BlackTail_Idle_05
+  - first:
+      213: -3541563852559620538
+    second: BlackTail_Idle_06
+  - first:
+      213: -769587441675253039
+    second: BlackTail_Idle_07
+  - first:
+      213: 7161867875271640283
+    second: BlackTail_Idle_08
+  - first:
+      213: -2150692454379790127
+    second: BlackTail_Idle_09
+  - first:
+      213: -2464787225223012158
+    second: BlackTail_Idle_10
+  - first:
+      213: 5598223305040121730
+    second: BlackTail_Jump_00
+  - first:
+      213: 6923222782906053552
+    second: BlackTail_Jump_01
+  - first:
+      213: 1410933702557668675
+    second: BlackTail_Jump_02
+  - first:
+      213: -289005881118065364
+    second: BlackTail_Jump_03
+  - first:
+      213: -5106929635121774724
+    second: BlackTail_Fly_00
+  - first:
+      213: 4880542173402968544
+    second: BlackTail_Fly_01
+  - first:
+      213: 7627080879045270576
+    second: BlackTail_Fly_02
+  - first:
+      213: 2708350980733529663
+    second: BlackTail_Fly_03
+  - first:
+      213: 6054355839738886026
+    second: BlackTail_Fly_04
+  - first:
+      213: -678377401650382967
+    second: BlackTail_Fly_05
+  - first:
+      213: 3783337070236829593
+    second: BlackTail_Fly_06
+  - first:
+      213: 6670576486115512312
+    second: BlackTail_Fly_07
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackTail_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19baef8c38a0bb520800000000000000
+      internalID: 2718778361177353105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 108
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75e55f3f1fda120800000000000000
+      internalID: 2426861804318513108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 108
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62413c323ca37cba0800000000000000
+      internalID: -6068817363065433050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 108
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6839fc6d17e4a0800000000000000
+      internalID: -6564245577994311019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 108
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40698c78d8f19c60800000000000000
+      internalID: 7823307636405264462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983796bf5090f2c50800000000000000
+      internalID: 6642537896692249481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 81
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646e1daa076d9dec0800000000000000
+      internalID: -3541563852559620538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_07
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 81
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da485b9c40e155f0800000000000000
+      internalID: -769587441675253039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_08
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 81
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd409d923e0146360800000000000000
+      internalID: 7161867875271640283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_09
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 81
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0649b8b943722e0800000000000000
+      internalID: -2150692454379790127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c069a1e3115bcdd0800000000000000
+      internalID: -2464787225223012158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Jump_00
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 54
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fca3e6f62e0bd40800000000000000
+      internalID: 5598223305040121730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3b104b07a341060800000000000000
+      internalID: 6923222782906053552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 54
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345939e1ab4a49310800000000000000
+      internalID: 1410933702557668675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Jump_03
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d75fdaeae3dfbf0800000000000000
+      internalID: -289005881118065364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Fly_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb6a5fd8a8029b0800000000000000
+      internalID: -5106929635121774724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Fly_01
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 27
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e13ffc9f3b2bb340800000000000000
+      internalID: 4880542173402968544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Fly_02
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 27
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cdaa446a5d8d960800000000000000
+      internalID: 7627080879045270576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Fly_03
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee3b51edef59520800000000000000
+      internalID: 2708350980733529663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Fly_04
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 27
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b2731f84650450800000000000000
+      internalID: 6054355839738886026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Fly_05
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f9fee85be596f0800000000000000
+      internalID: -678377401650382967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Fly_06
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978809350d118430800000000000000
+      internalID: 3783337070236829593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackTail_Fly_07
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0dfdc8f5a29c50800000000000000
+      internalID: 6670576486115512312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlackTail_Jump_02: 1410933702557668675
+      BlackTail_Fly_01: 4880542173402968544
+      BlackTail_Jump_01: 6923222782906053552
+      BlackTail_Fly_07: 6670576486115512312
+      BlackTail_Fly_03: 2708350980733529663
+      BlackTail_Idle_08: 7161867875271640283
+      BlackTail_Idle_02: -6068817363065433050
+      BlackTail_Idle_00: 2718778361177353105
+      BlackTail_Jump_00: 5598223305040121730
+      BlackTail_Fly_02: 7627080879045270576
+      BlackTail_Idle_05: 6642537896692249481
+      BlackTail_Fly_06: 3783337070236829593
+      BlackTail_Fly_05: -678377401650382967
+      BlackTail_Idle_01: 2426861804318513108
+      BlackTail_Idle_04: 7823307636405264462
+      BlackTail_Fly_04: 6054355839738886026
+      BlackTail_Idle_07: -769587441675253039
+      BlackTail_Idle_03: -6564245577994311019
+      BlackTail_Idle_06: -3541563852559620538
+      BlackTail_Idle_09: -2150692454379790127
+      BlackTail_Jump_03: -289005881118065364
+      BlackTail_Idle_10: -2464787225223012158
+      BlackTail_Fly_00: -5106929635121774724
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

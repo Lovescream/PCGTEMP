@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: fb6e1b57d05652b48a478b246e1cf93d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3804957709440987150
+    second: Sparrows_Idle
+  - first:
+      213: -7653197081268296937
+    second: Sparrows_look_left_pre
+  - first:
+      213: 6662124046209431261
+    second: Sparrows_look_left
+  - first:
+      213: 2358039975697364919
+    second: Sparrows_look_right_pre
+  - first:
+      213: 1015389255767134083
+    second: Sparrows_look_right
+  - first:
+      213: 6829809579509034128
+    second: Sparrows_pick_ready
+  - first:
+      213: 6583054147444212938
+    second: Sparrows_pick_0
+  - first:
+      213: 6672077908250999503
+    second: Sparrows_pick_1
+  - first:
+      213: -8148309067563529959
+    second: Sparrows_folded
+  - first:
+      213: -6554610155265087656
+    second: Sparrows_jump
+  - first:
+      213: 7710245337286459202
+    second: Sparrows_spread
+  - first:
+      213: -4111603591019809570
+    second: Sparrows_flying_ready
+  - first:
+      213: -1938704009077558153
+    second: Sparrows_flying_short_0
+  - first:
+      213: -164737632609678716
+    second: Sparrows_flying_short_1
+  - first:
+      213: 1703633652753268676
+    second: Sparrows_flying_long_0
+  - first:
+      213: 3224984294310348135
+    second: Sparrows_flying_long_1
+  - first:
+      213: 6132293674152679065
+    second: Sparrows_landing
+  - first:
+      213: 6947466454544269611
+    second: Sparrows_die_0
+  - first:
+      213: -5503360533855426251
+    second: Sparrows_die_1
+  - first:
+      213: 646178579581592004
+    second: Sparrows_die_2
+  - first:
+      213: 2146959862212516682
+    second: Sparrows_die_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sparrows_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: 7.5}
+        - {x: -9.5, y: -0.5}
+        - {x: -9.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: 4.5}
+        - {x: 8.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e003d9090ecedc430800000000000000
+      internalID: 3804957709440987150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_look_left_pre
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -0.5, y: 7.5}
+        - {x: -8.5, y: -0.5}
+        - {x: -9.5, y: -3.5}
+        - {x: -9.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: 4.5}
+        - {x: 8.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71362fe8dc16ac590800000000000000
+      internalID: -7653197081268296937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_look_left
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 120
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.5, y: 7.5}
+        - {x: -8.5, y: -0.5}
+        - {x: -8.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: 4.5}
+        - {x: 8.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6b6e7c58e947c50800000000000000
+      internalID: 6662124046209431261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_look_right_pre
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 120
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.5, y: 7.5}
+        - {x: -8.5, y: -0.5}
+        - {x: -9.5, y: -1.5}
+        - {x: -9.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: 4.5}
+        - {x: 8.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7bc9d4dd079b020800000000000000
+      internalID: 2358039975697364919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_look_right
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 120
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.5, y: 7.5}
+        - {x: -8.5, y: -0.5}
+        - {x: -8.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: 4.5}
+        - {x: 8.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f8fbaf523671e00800000000000000
+      internalID: 1015389255767134083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_pick_ready
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: 7.5}
+        - {x: -9.5, y: 0.5}
+        - {x: -9.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -3.5}
+        - {x: 9.5, y: 6.5}
+        - {x: 7.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c223e60ab58ce50800000000000000
+      internalID: 6829809579509034128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_pick_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 105
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: 7.5}
+        - {x: -9.5, y: 0.5}
+        - {x: -9.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 9.5, y: -1.5}
+        - {x: 9.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4039b5ed4bb5b50800000000000000
+      internalID: 6583054147444212938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_pick_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 105
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.5, y: 7.5}
+        - {x: -9.5, y: 4.5}
+        - {x: -9.5, y: -4.5}
+        - {x: -7.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: 4.5}
+        - {x: 5.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca3803e18bf79c50800000000000000
+      internalID: 6672077908250999503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_folded
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6.5, y: 7.5}
+        - {x: -0.5, y: 7.5}
+        - {x: -9.5, y: -0.5}
+        - {x: -9.5, y: -7.5}
+        - {x: 1.5496883, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -2.5}
+        - {x: 9.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91908cb13146bee80800000000000000
+      internalID: -8148309067563529959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_jump
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -0.5, y: 7.5}
+        - {x: -9.5, y: -0.5}
+        - {x: -9.5, y: -6.5}
+        - {x: -5.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 9.5, y: -2.5}
+        - {x: 9.5, y: 6.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857a146aac85905a0800000000000000
+      internalID: -6554610155265087656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_spread
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6.5, y: 7.5}
+        - {x: -0.5, y: 7.5}
+        - {x: -9.5, y: -0.5}
+        - {x: -9.5, y: -7.5}
+        - {x: 6.5, y: -7.5}
+        - {x: 9.5, y: -2.5}
+        - {x: 9.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f321c984b400b60800000000000000
+      internalID: 7710245337286459202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_flying_ready
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 60
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8.5, y: 7.5}
+        - {x: -4.5, y: 7.5}
+        - {x: -9.5, y: 1.5}
+        - {x: -9.5, y: -6.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 8.5, y: -4.5}
+        - {x: 9.5, y: -2.5}
+        - {x: 9.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43b047156a0f6c0800000000000000
+      internalID: -4111603591019809570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_flying_short_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9.5, y: 4.5}
+        - {x: 6.5, y: 7.5}
+        - {x: -5.5, y: 7.5}
+        - {x: -8.5, y: 2.5}
+        - {x: -9.5, y: -3.5}
+        - {x: -8.5, y: -7.5}
+        - {x: 9.5, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7747e46b9f65815e0800000000000000
+      internalID: -1938704009077558153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_flying_short_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 45
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2.5, y: 6.5}
+        - {x: -7.5, y: -0.5}
+        - {x: -8.5, y: -2.5}
+        - {x: -8.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 9.5, y: -5.5}
+        - {x: 9.5, y: 2.5}
+        - {x: 7.5, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a4927fefbb6bdf0800000000000000
+      internalID: -164737632609678716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_flying_long_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 7.5}
+        - {x: -8.5, y: -0.5}
+        - {x: -1.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 7.5, y: -2.5}
+        - {x: 6.5, y: 3.5}
+        - {x: 4.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf72cbe7c584a710800000000000000
+      internalID: 1703633652753268676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_flying_long_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 30
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.5, y: -7.5}
+        - {x: 4.5, y: -7.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: 6.5}
+        - {x: 2.5, y: 6.5}
+        - {x: -8.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650594012271cc20800000000000000
+      internalID: 3224984294310348135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_landing
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 7.5}
+        - {x: -9.5, y: 3.5}
+        - {x: -9.5, y: -6.5}
+        - {x: -8.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 9.5, y: -3.5}
+        - {x: 9.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996de3a3b984a1550800000000000000
+      internalID: 6132293674152679065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21cd006eeb5a6060800000000000000
+      internalID: 6947466454544269611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_die_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539a4a4a0c220a3b0800000000000000
+      internalID: -5503360533855426251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_die_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16d699effa7f800800000000000000
+      internalID: 646178579581592004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparrows_die_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd23e9e988bcd10800000000000000
+      internalID: 2146959862212516682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sparrows_folded: -8148309067563529959
+      Sparrows_flying_ready: -4111603591019809570
+      Sparrows_die_0: 6947466454544269611
+      Sparrows_landing: 6132293674152679065
+      Sparrows_look_right_pre: 2358039975697364919
+      Sparrows_die_1: -5503360533855426251
+      Sparrows_jump: -6554610155265087656
+      Sparrows_die_3: 2146959862212516682
+      Sparrows_flying_short_1: -164737632609678716
+      Sparrows_look_left: 6662124046209431261
+      Sparrows_pick_ready: 6829809579509034128
+      Sparrows_pick_1: 6672077908250999503
+      Sparrows_flying_long_0: 1703633652753268676
+      Sparrows_look_left_pre: -7653197081268296937
+      Sparrows_look_right: 1015389255767134083
+      Sparrows_Idle: 3804957709440987150
+      Sparrows_spread: 7710245337286459202
+      Sparrows_flying_short_0: -1938704009077558153
+      Sparrows_pick_0: 6583054147444212938
+      Sparrows_flying_long_1: 3224984294310348135
+      Sparrows_die_2: 646178579581592004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<key name="Dialogue_Mr.Scarecrow_Idle_0">
+		<korean>…</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Idle_1">
+		<korean>나는 허수아비… 복소수…</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Idle_2">
+		<korean>흔들…</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Idle_3">
+		<korean>팔랑…</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Idle_4">
+		<korean>… … 헉!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_CallingPlayer_0">
+		<korean>너! 이리와!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_CallingPlayer_1">
+		<korean>거기 너!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_CallingPlayer_2">
+		<korean>너 말이야, 너!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_GreetingToPlayer_0">
+		<korean>안녕!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_GreetingToPlayer_1">
+		<korean>안녕! 좋은 아침…인가?</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_GreetingToPlayer_2">
+		<korean>거기 너! 또 보네!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerOnCalling_0">
+		<korean>너! 거기 서!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerOnCalling_1">
+		<korean>내가 부르잖아! 멈춰!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerOnCalling_2">
+		<korean>내 말이 안들려?</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerGreeting_0">
+		<korean>잘 가!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerGreeting_1">
+		<korean>또 봐!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerGreeting_2">
+		<korean>어딜 그렇게 가는진 모르겠지만, 다시 보게 될거야!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerOnTalking_0">
+		<korean>내가 말하고 있잖아!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerOnTalking_1">
+		<korean>내 말을 듣다 말고 어디 가는거야!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerOnTalking_2">
+		<korean>내 말 아직 안 끝났어!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnAwayPlayerOnTalking_3">
+		<korean>이거 중요한 거야! 다시 와서 내 말을 들어!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnHit_0">
+		<korean>아야!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnHit_1">
+		<korean>날 때리면 안 돼!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnHit_2">
+		<korean>난 타격 연습용 허수아비가 아니야!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnHit_3">
+		<korean>날 왜 때리는거야?</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnHit_4">
+		<korean>그만 때려!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_OnHit_5">
+		<korean>때리지 마!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial0_0">
+		<korean>안녕! 잘 왔어! 나는 이 곳을 지키고 있는 아주 멋진 허수아비!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial0_1">
+		<korean>존경하는 마음을 담아 허수아비씨라고 부르도록 해!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial0_2">
+		<korean>여기까지 걸어온 걸로 보아서 나와는 다르게 움직일 수 있나보네.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial0_3">
+		<korean>내가 일일이 걷고 뛰는 법을 알려주지 않아도 되겠지?</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial0_4">
+		<korean>뛰다가 답답하면 오른쪽 클릭으로 대시하도록 하고.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial1_0">
+		<korean>지금처럼 누군가와 상호작용하고 싶다면 'F' 키를 이용하도록 해.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial1_1">
+		<korean>그런데 너, 빈손이야?</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial1_2">
+		<korean>대체 이 험한 곳에서 어떻게 살아가려고 그래? 아무것도 없어?</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial1_3">
+		<korean>'T' 키를 눌러 소지품창을 열어봐. 정말 아무것도 없는지 말이야.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial2_0">
+		<korean>정말 아무것도 가지고 있지 않단 말이야? 그래서는 정확히 세 걸음 가면 죽는다고!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial2_1">
+		<korean>그래... 음... 마음에 들었어... 너의 그 빈곤함...</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial2_2">
+		<korean>내가... 음... 너를 위해 이걸 줄게. 이건 내가 아끼는 보물이야. 이것만 있으면 여기에 있는 모든 것들을 죽일 수 있어.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial2_3">
+		<korean>나만 빼고 말이야.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial2_4">
+		<korean>이걸 줄게. 소지품창에서 오른쪽 클릭으로 장착해봐.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial3_0">
+		<korean>훨씬 낫네. 아니, 아주 멋져. 넌 이제 이 세계에서 가장 강력한 존재가 되었어.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial3_1">
+		<korean>아니, 나 다음으로 말이야.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial3_2">
+		<korean>그럼 그걸 휘둘러봐. 최대한 멋지게 휘둘러.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial4_0">
+		<korean>잘했어. 그렇게 하는거야.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial4_1">
+		<korean>앞으로 싸울 일이 많을거야. 또 선물을 줄게.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial5_0">
+		<korean>잘 싸우는데? 역시, 나 다음으로 강한 존재야!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial5_1">
+		<korean>그런데 있잖아...</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial5_2">
+		<korean>역시... 꼭 그렇게 죽였어야 했어?</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial5_3">
+		<korean>그 아이들도 너와 나처럼...</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial5_4">
+		<korean>아니 죽어도 싸. 징그럽잖아!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial5_5">
+		<korean>앞으로 걔들을 징그러운 놈들이라고 부르도록 해. 그리고 볼 때마다 죽이는거야.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial5_6">
+		<korean>들었어? 집중해! 메모하도록 하고.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial5_7">
+		<korean>Y를 눌러서 일지를 열도록 해. 앞으로 네가 보고 듣고 씹고 뜯고 맛보고 즐긴 모든 것들이 거기에 기록될거야.</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial6_0">
+		<korean>그럼...</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial6_1">
+		<korean>... 앗! 나 할 일이 생겼어. 너를 상대해 줄 시간이 이젠 없어져버렸어!</korean>
+	</key>
+	<key name="Dialogue_Mr.Scarecrow_Tutorial6_2">
+		<korean>너, 얼른 가버리도록 해. 잘 가!</korean>
+	</key>
+	<key name="CreatureLog_Mr.Scarecrow_FirstEncounter">
+		<korean>이상하게 생긴 허수아비이다. 이 허수아비를 허수아비씨라고 부르기로 했다.</korean>
+	</key>
+	<key name="CreatureLog_Mr.Scarecrow_dialogue_Idle_1">
+		<korean>허수아비씨는 가끔 이상한 이야기를 하는 것 같다.</korean>
+	</key>
+	<key name="CreatureLog_Mr.Scarecrow_FirstTalking">
+		<korean>허수아비씨는 여러가지를 알려주고 싶어하는 것 같다.</korean>
+	</key>
+	<key name="CreatureLog_Mr.Scarecrow_EndTutorial">
+		<korean>허수아비씨는 이상한 것들을 알고 있다. 처음 듣는 것들임에도 불구하고, 원래 알고 있었던 것처럼 알아들을 수 있었다.</korean>
+	</key>
+	<key name="CreatureLog_Mr.Scarecrow_1Hit">
+		<korean>허수아비씨는 손이나 발이 없어 움직이거나 때리지는 못하는 것 같다.</korean>
+	</key>
+	<key name="CreatureLog_Mr.Scarecrow_10Hit">
+		<korean>허수아비씨를 아무리 때려도 화내기만 할 뿐 반격하지 않는다. 타격 연습용으로 제격인 것 같다.</korean>
+	</key>
+</root>

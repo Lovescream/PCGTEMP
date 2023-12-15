@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: c574b04de8cb53349ace59c5eda9f1f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1900822687866432035
+    second: PlayerUI_SanityBar_0
+  - first:
+      213: -5493984578901529120
+    second: PlayerUI_SanityBar_1
+  - first:
+      213: 3101589504449391632
+    second: PlayerUI_SanityBar_2
+  - first:
+      213: 8556506301941259619
+    second: PlayerUI_SanityBar_3
+  - first:
+      213: -234385726492085171
+    second: PlayerUI_SanityBar_4
+  - first:
+      213: -2925668328320121903
+    second: PlayerUI_SanityBar_5
+  - first:
+      213: -7769981009422091170
+    second: PlayerUI_SanityBar_6
+  - first:
+      213: -5910954535393873301
+    second: PlayerUI_SanityBar_7
+  - first:
+      213: -2089099727260098060
+    second: PlayerUI_SanityBar_8
+  - first:
+      213: 712994892083376947
+    second: PlayerUI_SanityBar_9
+  - first:
+      213: 2342582405554595402
+    second: PlayerUI_SanityBar_10
+  - first:
+      213: -1422155951351475053
+    second: PlayerUI_SanityBar_11
+  - first:
+      213: 5315654688235225522
+    second: PlayerUI_SanityBar_12
+  - first:
+      213: -350015901604345962
+    second: PlayerUI_SanityBar_13
+  - first:
+      213: -2356274912584799316
+    second: PlayerUI_SanityBar_14
+  - first:
+      213: -915436861867462342
+    second: PlayerUI_SanityBar_15
+  - first:
+      213: -7415359157935531406
+    second: PlayerUI_SanityBar_16
+  - first:
+      213: 1051870092578268564
+    second: PlayerUI_SanityBar_17
+  - first:
+      213: -4570099224170359897
+    second: PlayerUI_SanityBar_18
+  - first:
+      213: -7975667849503028293
+    second: PlayerUI_SanityBar_19
+  - first:
+      213: 217900193692357197
+    second: PlayerUI_SanityBar_20
+  - first:
+      213: -7778984405382015974
+    second: PlayerUI_SanityBar_21
+  - first:
+      213: -4602396042030874798
+    second: PlayerUI_SanityBar_22
+  - first:
+      213: -968730091077318704
+    second: PlayerUI_SanityBar_23
+  - first:
+      213: -3831142922354131638
+    second: PlayerUI_SanityBar_24
+  - first:
+      213: -8396380780300809810
+    second: PlayerUI_SanityBar_25
+  - first:
+      213: -5850697824689653420
+    second: PlayerUI_SanityBar_26
+  - first:
+      213: -7464348989333675109
+    second: PlayerUI_SanityBar_27
+  - first:
+      213: -6683496594815117437
+    second: PlayerUI_SanityBar_28
+  - first:
+      213: 3317907421899276544
+    second: PlayerUI_SanityBar_29
+  - first:
+      213: -842239586854932089
+    second: PlayerUI_SanityBar_30
+  - first:
+      213: -6738544867733230353
+    second: PlayerUI_SanityBar_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d7bc16dbee95e0800000000000000
+      internalID: -1900822687866432035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda915422271c3b0800000000000000
+      internalID: -5493984578901529120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c29cba83f0b0b20800000000000000
+      internalID: 3101589504449391632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d9995b521deb670800000000000000
+      internalID: 8556506301941259619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4474007c6b4fbcf0800000000000000
+      internalID: -234385726492085171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34edff720f567d0800000000000000
+      internalID: -2925668328320121903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c7dd5607b7b2490800000000000000
+      internalID: -7769981009422091170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b623d5aea2218fda0800000000000000
+      internalID: -5910954535393873301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1eb48ddd60203e0800000000000000
+      internalID: -2089099727260098060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3333c45a31115e900800000000000000
+      internalID: 712994892083376947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46692c4946828020800000000000000
+      internalID: 2342582405554595402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394dc7872bc734ce0800000000000000
+      internalID: -1422155951351475053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b186e086cff4c940800000000000000
+      internalID: 5315654688235225522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978227546e742bf0800000000000000
+      internalID: -350015901604345962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe73a7374dc4fd0800000000000000
+      internalID: -2356274912584799316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31771a3607bb43f0800000000000000
+      internalID: -915436861867462342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a1055522a571990800000000000000
+      internalID: -7415359157935531406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952cf1b64ef89e00800000000000000
+      internalID: 1051870092578268564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3990318feb390c0800000000000000
+      internalID: -4570099224170359897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb4ed7095cb05190800000000000000
+      internalID: -7975667849503028293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4295895213260300800000000000000
+      internalID: 217900193692357197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d6ebe5ee7b0490800000000000000
+      internalID: -7778984405382015974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff51f2f210120c0800000000000000
+      internalID: -4602396042030874798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7ca1e5d116e82f0800000000000000
+      internalID: -968730091077318704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d74557fcb05dac0800000000000000
+      internalID: -3831142922354131638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c04f8a201a7b80800000000000000
+      internalID: -8396380780300809810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459f837a3552ecea0800000000000000
+      internalID: -5850697824689653420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93683b542e496890800000000000000
+      internalID: -7464348989333675109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871388f1437f33a0800000000000000
+      internalID: -6683496594815117437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00140ff98339b0e20800000000000000
+      internalID: 3317907421899276544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7817db1ee83cf44f0800000000000000
+      internalID: -842239586854932089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerUI_SanityBar_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecaab72521eb72a0800000000000000
+      internalID: -6738544867733230353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerUI_SanityBar_7: -5910954535393873301
+      PlayerUI_SanityBar_17: 1051870092578268564
+      PlayerUI_SanityBar_30: -842239586854932089
+      PlayerUI_SanityBar_2: 3101589504449391632
+      PlayerUI_SanityBar_8: -2089099727260098060
+      PlayerUI_SanityBar_28: -6683496594815117437
+      PlayerUI_SanityBar_9: 712994892083376947
+      PlayerUI_SanityBar_12: 5315654688235225522
+      PlayerUI_SanityBar_10: 2342582405554595402
+      PlayerUI_SanityBar_5: -2925668328320121903
+      PlayerUI_SanityBar_27: -7464348989333675109
+      PlayerUI_SanityBar_31: -6738544867733230353
+      PlayerUI_SanityBar_16: -7415359157935531406
+      PlayerUI_SanityBar_21: -7778984405382015974
+      PlayerUI_SanityBar_19: -7975667849503028293
+      PlayerUI_SanityBar_23: -968730091077318704
+      PlayerUI_SanityBar_29: 3317907421899276544
+      PlayerUI_SanityBar_20: 217900193692357197
+      PlayerUI_SanityBar_11: -1422155951351475053
+      PlayerUI_SanityBar_14: -2356274912584799316
+      PlayerUI_SanityBar_26: -5850697824689653420
+      PlayerUI_SanityBar_0: -1900822687866432035
+      PlayerUI_SanityBar_4: -234385726492085171
+      PlayerUI_SanityBar_22: -4602396042030874798
+      PlayerUI_SanityBar_3: 8556506301941259619
+      PlayerUI_SanityBar_6: -7769981009422091170
+      PlayerUI_SanityBar_13: -350015901604345962
+      PlayerUI_SanityBar_24: -3831142922354131638
+      PlayerUI_SanityBar_15: -915436861867462342
+      PlayerUI_SanityBar_1: -5493984578901529120
+      PlayerUI_SanityBar_25: -8396380780300809810
+      PlayerUI_SanityBar_18: -4570099224170359897
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
